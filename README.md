@@ -37,7 +37,7 @@ Bike Trips vary by the hour of day with the peak hours at 8am in the morning and
 <p align=center>
 <img src=Images/trips_by_weekday.png><img src=Images/trips_by_weekday_2.png width=999>
 
-This data provides the information we need to answer our third question. Thursday is
+This data provides the information we need to answer our third question. Thursday is the most popular day for bike rentals with a total of 353,508 rentals recorded.
 
 <br>
 

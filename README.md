@@ -75,6 +75,10 @@ This visualization also shows that the peak hours are at 7am and between 5-6pm w
 
 <br>
 
+## Summary:
+
+Bike rentals vary by the hour of the day and are most popular at 7am and in the evening between 5-6pm. Rentals times vary between age, sex, weekday, and time of day with an average of only 5-6 minutes. The number of bike trips varies dramatically by the type of user (subscribed or unsubscribed) and whether the renter is male or female among other variables. There were 443,822 non-subscribed and 1,899,424 subscribed customers recorded. The bulk of customers are subscribed to the service. For further analysis, I have also included a graph showing the location of start stations by zip-code and a graph visualizing Trip Duration by age.
+
 ## Resources:
 
 - Software:

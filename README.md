@@ -6,7 +6,7 @@
 
 <b>
 
-Using `Tableau` to create a presentation and analysis to pitch to investors that a bike-sharing program for Des Moines is a solid business proposal. To solidify the proposal, some of the key stakeholders have requested to see a bike trip analysis of New York City where the same program has been successful. We are going to answer three main questions as well as provide other informative visualizations of the data to answer these questions.
+Using `Tableau` to create a presentation and analysis to pitch to investors that a bike-sharing program for Des Moines is a solid business proposal. To solidify the proposal, some of the key stakeholders have requested to see a bike trip analysis of New York City where the same program has been successful. We are going to answer three main questions as well as provide other informative visualizations of the data to answer these questions. The dataset consists of a total of 2,343,246 recorded bike-shares.
 
 <br>
 
@@ -41,7 +41,17 @@ This data provides the information we need to answer our third question. Thursda
 
 <br>
 
-<b/>
+<p align=center>
+<img src=Images/trips_by_usertype_pie.png>
+
+There were 443,822 non-subscribed and 1,899,424 subscribed customers recorded. The bulk of customers are subscribed to the service.
+
+<br>
+
+<p align=center>
+<img src=Images/top_10_start_stations.png>
+
+This graph shows us the top ten start stations. `Pershing Square North` is the most popular station for bike rentals followed by `E 17th St & Broadway`.
 
 <br>
 
@@ -49,6 +59,14 @@ This data provides the information we need to answer our third question. Thursda
 
 <p align=center>
 <img src=Images/Final.png>
+
+<br>
+
+[Link to Deployed Tableau Story](https://public.tableau.com/app/profile/dylan.brothers/viz/CitibikeStory_16635661142550/Start_Station_Map)
+
+Please visit the Tableau Public link to interact with any graphs you've seen and more.
+
+<br>
 
 ## Resources:
 
@@ -67,3 +85,5 @@ This data provides the information we need to answer our third question. Thursda
     - https://s3.amazonaws.com/tripdata/index.html
   
 <br>
+
+<b/>

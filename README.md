@@ -10,7 +10,7 @@ Using `Tableau` to create a presentation and analysis to pitch to investors that
 
 <br>
 
-[Link to Deployed Tableau Story](https://public.tableau.com/app/profile/dylan.brothers/viz/CitibikeStory_16635661142550/Start_Station_Map)
+[Link to Deployed Tableau Story](https://public.tableau.com/app/profile/dylan.brothers/viz/CitibikeStory_16635661142550/Zipcode_Top_Stations?publish=yes)
 
 <br>
 
@@ -69,7 +69,7 @@ This visualization also shows that the peak hours are at 7am and between 5-6pm w
 
 <br>
 
-[Link to Deployed Tableau Story](https://public.tableau.com/app/profile/dylan.brothers/viz/CitibikeStory_16635661142550/Start_Station_Map)
+[Link to Deployed Tableau Story](https://public.tableau.com/app/profile/dylan.brothers/viz/CitibikeStory_16635661142550/Zipcode_Top_Stations?publish=yes)
 
 `Please visit the Tableau Public link to interact with any graphs you've seen and more.`
 
